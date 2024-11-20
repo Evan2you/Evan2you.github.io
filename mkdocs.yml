@@ -1,4 +1,5 @@
-site_name: Evan2you's paper Notes
+site_name: Evan2you's Paper Notes
+
 theme:
   name: material
   language: zh
@@ -41,3 +42,36 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
    
+markdown_extensions: 
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - attr_list
+    - pymdownx.emoji:
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+    - toc:
+        permalink: true
+    
+
+copyright: Copyright @copy:2024 Evan2you
+
+# extra_css: 
+#   - stylesheets/extra.css
+extra:
+  generator: false
+
+#导航栏  
+nav:
+  - 'Start Here':
+    - 'Start Here': index.md
+  - '组会汇报':
+    - '2024年11月': 组会汇报/2024年11月.md
+    - '2024年12月': 组会汇报/2024年12月.md
+  - '论文整理':
+    - 'EEGNet': 论文整理/EEGNet.md
+  - '硬件创作':
+    - '脑电采集': 硬件创作/脑电采集.md
+  - '日常分享':
+    - '我与地坛': 日常分享/我与地坛.md
+    - '大美女': 日常分享/大美女.md

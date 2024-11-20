@@ -1,22 +1,13 @@
-# Welcome
+# WELCOME
+ 
+ 欢迎大家来到Evan2you的网站！
 
-耿子怡最漂亮
-耿子怡最好看
-耿子怡最可爱
-耿子怡最美丽
+更多详细信息请关注我 [Evan2you's Paper Notes](https://evan2you.github.io/).
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 网站简介
 
-## Commands
+开组会用自己的网站汇报会不会很酷哈哈，而且随时随地都能看，只需要一个网址！
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 说点什么
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+允许一切发生，你将无所畏惧！
