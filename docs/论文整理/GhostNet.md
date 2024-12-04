@@ -24,7 +24,7 @@ GHostNet仅通过<span style="color: red; font-weight: bold;">少量计算（che
 <br/>
 
 <figure markdown="span">
-  ![ghostnet1](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet1.jpg){ width="300" }
+  ![ghostnet1](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet1.png){ width="300" }
   <figcaption>特征冗余</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ GHostNet仅通过<span style="color: red; font-weight: bold;">少量计算（che
 </div>
 
 <figure markdown="span">
-  ![ghostnet2](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet2.jpg){ width="300" }
+  ![ghostnet2](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet2.png){ width="300" }
   <figcaption>常规卷积层和Ghost module</figcaption>
 </figure>
 
@@ -127,7 +127,7 @@ $$
 ### 三、构建GhostNet
 
 <figure markdown="span">
-  ![ghostnet3](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet3.jpg){ width="300" }
+  ![ghostnet3](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet3.png){ width="300" }
   <figcaption>Ghost Bottleneck</figcaption>
 </figure>
 
