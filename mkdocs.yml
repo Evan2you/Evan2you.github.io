@@ -49,6 +49,8 @@ markdown_extensions:
     - attr_list
     - md_in_html
     - pymdownx.blocks.caption
+    - pymdownx.arithmatex:
+        generic: true
     - pymdownx.emoji:
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
         emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -60,6 +62,19 @@ copyright: Copyright @copy:2024 Evan2you
 
 # extra_css: 
 #   - stylesheets/extra.css
+
+#latex公式
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
 extra:
   generator: false
 
@@ -71,7 +86,8 @@ nav:
     - '2024年11月': 组会汇报/2024年11月.md
     - '2024年12月': 组会汇报/2024年12月.md
   - '论文整理':
-    - 'EEGNet': 论文整理/EEGNet.md
+    - 'Markdown新手教程': 论文整理/Markdown新手教程.md
+    - 'GhostNet': 论文整理/GhostNet.md
   - '硬件创作':
     - '脑电采集': 硬件创作/脑电采集.md
   - '日常分享':
