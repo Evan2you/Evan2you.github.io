@@ -24,7 +24,7 @@ GHostNet仅通过<span style="color: red; font-weight: bold;">少量计算（che
 <br/>
 
 <figure markdown="span">
-  ![ghostnet1](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet1.png){ width="500" }
+  ![ghostnet1](https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/论文整理/ghostnet/ghostnet1.png){ width="600" }
   <figcaption>特征冗余</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ $$
 $$
 
 <div style="font-family: '等线', sans-serif; text-align: justify;">
-&emsp;&emsp;其中，a,b,c,da,b,c,d 定义了旋转和缩放，tx,tytx,ty 定义了平移。如果 a,b,c,da,b,c,d 构成的2x2矩阵
+&emsp;&emsp;其中，a,b,c,d定义了旋转和缩放，tx,tytx,ty 定义了平移。如果 a,b,c,d构成的2x2矩阵
 是<span style="color: orange; font-weight: bold;"><span style="color: orange; font-weight: bold;">正交的</span>，那么这个变换还包括了旋转。在三维空间中，仿射变换可以⽤⼀个4x4的矩阵表⽰，形式如下：
 </div>
 
