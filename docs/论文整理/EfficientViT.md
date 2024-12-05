@@ -56,6 +56,7 @@ MobileViT、DeiT等。这些模型虽然在<span style="color: red; font-weight:
 ⼀化操作（如LayerNorm）。这些操作需要频繁访问内存，⽽内存访问延迟往往会成为推理速度的瓶颈。
 
 &emsp;&emsp;<font face = "等线" >提出Sandwich结构
+</br>
 &emsp;&emsp;为了解决上述问题，EfficientViT提出了⼀种<span style="color: purple; font-weight: bold;">Sandwich布局</span>的结构设计。传统的Transformer模型通常
 在每个块中使⽤等量的多头⾃注意⼒（MHSA）和前馈神经⽹络（FFN）层，⽽EfficientViT则引⼊了
 ⼀个<span style="color: purple; font-weight: bold;">“夹⼼式”</span>的布局结构，<b>即在每个块中只使⽤⼀个⾃注意⼒层，并在其前后插⼊多个FFN层。</b>这种设计的优点在于：
