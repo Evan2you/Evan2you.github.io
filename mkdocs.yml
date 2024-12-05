@@ -88,6 +88,7 @@ nav:
   - '论文整理':
     - 'Markdown新手教程': 论文整理/Markdown新手教程.md
     - 'GhostNet': 论文整理/GhostNet.md
+    - 'EfficientViT': 论文整理/EfficientViT.md
   - '硬件创作':
     - '脑电采集': 硬件创作/脑电采集.md
   - '日常分享':

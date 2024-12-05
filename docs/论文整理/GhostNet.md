@@ -158,3 +158,4 @@ GhostNet改进EEG SOTA的⽅案：
 &emsp;&emsp;GhostNet可完美替代深度可分离卷积，对于包含深度可分离的SOTA：EEGNet、EEG-TCNet模型可以
 使⽤GhostNet替代深度可分离卷积。
 </div>
+</br>
