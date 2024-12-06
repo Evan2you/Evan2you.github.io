@@ -90,6 +90,7 @@ nav:
     - 'GhostNet': 论文整理/GhostNet.md
     - 'EfficientViT': 论文整理/EfficientViT.md
     - 'SGENet': 论文整理/SGENet.md
+    - 'KANNet': 论文整理/KANNet.md
   - '硬件创作':
     - '脑电采集': 硬件创作/脑电采集.md
   - '日常分享':
