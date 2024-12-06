@@ -38,7 +38,7 @@
 </div>
 </div>
 
-&emsp;&emsp;<font face = "等线" >**2、加在EEGNet的最后⾯：**
+&emsp;&emsp;<font face = "等线" >**2、加在EEGNet的最后⾯**
 <br/>
 <div style="font-family: '等线', sans-serif; text-align: justify;">
 &emsp;&emsp;原始EEG数据不先经过SGE处理，此时EEG的输⼊可以是最佳的（288,1,22,1000）。在经过EEGNet的处理后，其第⼆维度的1在经过每层卷积时发⽣了变化，超过了1。
