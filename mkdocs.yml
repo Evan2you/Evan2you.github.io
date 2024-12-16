@@ -91,6 +91,7 @@ nav:
     - 'EfficientViT': 论文整理/EfficientViT.md
     - 'SGENet': 论文整理/SGENet.md
     - 'KANNet': 论文整理/KANNet.md
+    - '脑电通道选择': 论文整理/脑电通道选择.md
   - '硬件创作':
     - '脑电采集硬件': 硬件创作/脑电采集硬件.md
     - '运动想象qt上位机': 硬件创作/运动想象qt上位机.md
