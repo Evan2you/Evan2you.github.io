@@ -56,6 +56,9 @@ markdown_extensions:
         emoji_index: !!python/name:material.extensions.emoji.twemoji
     - toc:
         permalink: true
+    - def_list
+    - pymdownx.tasklist:
+        custom_checkbox: true
     
 
 copyright: Copyright @copy:2024 Evan2you
@@ -92,6 +95,7 @@ nav:
     - 'SGENet': 论文整理/SGENet.md
     - 'KANNet': 论文整理/KANNet.md
     - '脑电通道选择': 论文整理/脑电通道选择.md
+    - '集成学习': 论文整理/集成学习.md
   - '硬件创作':
     - '脑电采集硬件': 硬件创作/脑电采集硬件.md
     - '运动想象qt上位机': 硬件创作/运动想象qt上位机.md
