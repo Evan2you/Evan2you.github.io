@@ -3,8 +3,8 @@ site_name: Evan2you's Paper Notes
 theme:
   name: material
   language: zh
-  icon:
-    logo: fontawesome/solid/hat-cowboy
+  # icon:
+  #   logo: fontawesome/solid/hat-cowboy
   #更改小组件
   features:
     - content.code.annotate

@@ -11,54 +11,64 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
+            color: #333;
         }
         .container {
-            width: 80%;
-            margin: 20px auto;
+            width: 85%;
+            margin: 30px auto;
             background-color: white;
-            padding: 20px;
+            padding: 30px;
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
         h1 {
             text-align: center;
             color: #333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
         }
         h2 {
             color: #4CAF50;
+            font-size: 1.8em;
+            margin-top: 20px;
         }
         p, ul {
             color: #333;
+            font-size: 1.1em;
             margin-bottom: 10px;
         }
         .section {
-            margin-bottom: 20px;
-        }
-        .contact, .education, .experience, .projects, .skills {
-            margin-bottom: 20px;
-        }
-        .contact p, .education p, .experience p, .projects p, .skills p {
-            margin: 5px 0;
+            margin-bottom: 30px;
         }
         .header {
             display: flex;
             justify-content: space-between;
             align-items: center;
+            margin-bottom: 30px;
         }
         .header img {
-            width: 120px;
-            height: 120px;
+            width: 150px;
+            height: 150px;
             border-radius: 50%;
+            border: 3px solid #4CAF50;
         }
         .header .info {
             text-align: right;
         }
         .info p {
             margin: 0;
+            font-size: 1.1em;
         }
         ul {
             list-style-type: none;
             padding-left: 0;
+        }
+        a {
+            text-decoration: none;
+            color: #4CAF50;
+        }
+        a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -70,7 +80,7 @@
                 <h1>Evan Wang</h1>
                 <p>Stay hungry, stay foolish.</p>
             </div>
-            <img src="images/start here/evan.jpg" alt="Evan">
+            <img src="images/evan.jpg" alt="Evan">
         </div>
 
         <div class="contact section">
