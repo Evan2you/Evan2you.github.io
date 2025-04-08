@@ -3,6 +3,8 @@ site_name: Evan2you's Paper Notes
 theme:
   name: material
   language: zh
+  icon:
+    logo: fontawesome/solid/hat-cowboy
   #更改小组件
   features:
     - content.code.annotate
@@ -84,20 +86,21 @@ extra:
 #导航栏  
 nav:
   - 'Start Here':
-    - 'Start Here': index.md
+      - 'Start Here': index.md
+      - '个人简历': resume.md  # 在这里添加简历页面
   - '组会汇报':
-    - '2024年12月': 组会汇报/2024年12月.md
+      - '2024年12月': 组会汇报/2024年12月.md
   - '论文整理':
-    - 'Markdown新手教程': 论文整理/Markdown新手教程.md
-    - 'GhostNet': 论文整理/GhostNet.md
-    - 'EfficientViT': 论文整理/EfficientViT.md
-    - 'SGENet': 论文整理/SGENet.md
-    - 'KANNet': 论文整理/KANNet.md
-    - '脑电通道选择': 论文整理/脑电通道选择.md
-    - '集成学习': 论文整理/集成学习.md
+      - 'Markdown新手教程': 论文整理/Markdown新手教程.md
+      - 'GhostNet': 论文整理/GhostNet.md
+      - 'EfficientViT': 论文整理/EfficientViT.md
+      - 'SGENet': 论文整理/SGENet.md
+      - 'KANNet': 论文整理/KANNet.md
+      - '脑电通道选择': 论文整理/脑电通道选择.md
+      - '集成学习': 论文整理/集成学习.md
   - '硬件创作':
-    - '脑电采集硬件': 硬件创作/脑电采集硬件.md
-    - '运动想象qt上位机': 硬件创作/运动想象qt上位机.md
+      - '脑电采集硬件': 硬件创作/脑电采集硬件.md
+      - '运动想象qt上位机': 硬件创作/运动想象qt上位机.md
   - '日常分享':
-    - '省身之语': 日常分享/省身之语.md
-    - '大美女': 日常分享/大美女.md
+      - '省身之语': 日常分享/省身之语.md
+      - '大美女': 日常分享/大美女.md
