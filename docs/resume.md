@@ -38,8 +38,8 @@
             position: absolute; /* 使其绝对定位 */
             top: 20px; /* 调整到顶部 */
             right: 20px; /* 调整到右边 */
-            width: 6cm;  /* 设置为二寸标准宽度 */
-            height: 8.4cm; /* 设置为二寸标准高度 */
+            width: 3.5cm;  /* 设置为二寸标准宽度 */
+            height: 4.9cm; /* 设置为二寸标准高度 */
             border-radius: 50%;
             border: 1px solid rgb(235, 237, 238); /* 给照片添加边框 */
         }
@@ -63,7 +63,7 @@
                 <h1>Evan Wang</h1>
                 <p>Stay hungry, stay foolish.</p>
             </div>
-            <img src="https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/start_here/yifan.jpg" alt="evan">
+            <img src="https://raw.githubusercontent.com/Evan2you/Evan2you.github.io/main/docs/images/start_here/yifan2.jpg" alt="evan">
         </div>
 
         <div class="contact section">
