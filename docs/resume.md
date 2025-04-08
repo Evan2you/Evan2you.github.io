@@ -38,10 +38,10 @@
             position: absolute; /* 使其绝对定位 */
             top: 20px; /* 调整到顶部 */
             right: 20px; /* 调整到右边 */
-            width: 120px; /* 设置照片宽度 */
-            height: 120px; /* 设置照片高度 */
+            width: 3.5cm;  /* 设置为二寸标准宽度 */
+            height: 4.9cm; /* 设置为二寸标准高度 */
             border-radius: 50%;
-            border: 3px solidrgb(11, 104, 186); /* 可选：给照片添加边框 */
+            border: 1px solid rgb(235, 237, 238); /* 给照片添加边框 */
         }
 
         ul {
@@ -86,16 +86,10 @@
             <ul>
                 <li>
                     <strong>2024.07-2024.09：</strong>山东昂科斯智能科技有限公司，设备研发
-                    <p>负责单通道脑电信号采集板卡的 PCB 设计，独立完成原理图绘制、布局布线及电磁兼容优化。</p>
-                    <p>参与脑电信号预处理算法开发，基于 Python 设计滤波、去噪及基线校正流程。</p>
+                    <p>负责单通道脑电信号采集板卡的PCB设计，独立完成原理图绘制、布局布线及电磁兼容优化，使用嘉立创EDA实现高精度信号采集模块，并通过硬件测试验证。</p>
+                    <p>参与脑电信号预处理算法开发，基于Python设计滤波、去噪及基线校正流程，有效提升原始信号信噪比为后续特征提取与分析提供可靠数据支持。</p>
                 </li>
-                <li>
-                    <strong>2023.09-2024.02：</strong>基于西门子 PLC 的气动康复辅具控制系统开发
-                    <p>负责气动肌肉驱动康复辅具的闭环控制设计，基于西门子 PLC 搭建硬件控制框架。</p>
-                </li>
-            </ul>
-        </div>
-
+                
         <div class="projects section">
             <h2>项目科研</h2>
             <ul>
@@ -111,8 +105,8 @@
         <div class="papers section">
             <h2>论文专利</h2>
             <ul>
-                <li>运动态感脑电信号采集分析软件 V1.0 2024SR0550722</li>
-                <li>EEG-GSoPNet: A Convolutional Network with Global Second-Order Pooling for Multiclass Classification of Upper Limb Motor Imagery in BCI（已录用 ACM 会议待检索）</li>
+                <li>运动态感脑电信号采集分析软件 V1.0 2024SR0550722. <strong>（一作，软件著作权）</strong></li>
+                <li>EEG-GSoPNet: A Convolutional Network with Global Second-Order Pooling for Multiclass Classification of Upper Limb Motor Imagery in BCI. <strong>（一作，已录用 ACM 会议待检索）</strong></li>
             </ul>
         </div>
 
@@ -122,7 +116,7 @@
                 <li>歌尔杯第二届高校 VR/AR 挑战赛全国一等奖</li>
                 <li>2023 年山东省大学生电子设计大赛一等奖</li>
                 <li>2024 年山东省机电比赛二等奖</li>
-                <li>学业一等奖学金（研究生）、国家奖学金、山东省政府奖学金（本科期间）</li>
+                <li>学业一等奖学金<strong>（研究生）</strong>、国家奖学金、山东省政府奖学金<strong>（本科期间）</strong></li>
             </ul>
         </div>
 
