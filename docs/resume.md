@@ -63,7 +63,7 @@
                 <h1>Evan Wang</h1>
                 <p>Stay hungry, stay foolish.</p>
             </div>
-            <img src="images/start_here/evan.png" alt="Evan">
+            <img src="https://your-username.github.io/your-repository-name/images/start_here/evan.png" alt="Evan">
         </div>
 
         <div class="contact section">
