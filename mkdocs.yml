@@ -85,6 +85,7 @@ extra:
 
 #导航栏  
 nav:
+  - '强化学习复习': rl-study/index.html
   - 'Start Here':
       - 'Start Here': index.md
       - '个人简历': resume.md  # 在这里添加简历页面

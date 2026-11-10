@@ -18,3 +18,8 @@
 
 - **GitHub**：[Evan2you GitHub](https://github.com/Evan2you)
 - **邮箱**：[evanwang20001029@gmail.com](mailto:eevanwang20001029@gmail.com)
+
+
+## 强化学习期中复习
+
+[打开强化学习复习站](rl-study/index.html)：按 RL2–RL12 章节整理的中文知识库、原模拟卷 A，以及新增 B–E 四套英文模拟卷。每套配有详细中文解析和英文答案，可打印或下载离线包。
